@@ -4,6 +4,10 @@ venv/
 env/
 ENV/
 
+# ---------- 视频 ----------
+videos/
+
+
 # ---------- Python 编译缓存 ----------
 __pycache__/
 *.py[cod]
